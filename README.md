@@ -4,11 +4,14 @@ I recently completed a comprehensive Bank Loan Analysis Dashboard project using 
 
 📊 Power BI Dashboard:
 *This interactive dashboard offers a clear overview of 38.6K total loan applications, with deep insights into funding ($435.8M), repayments ($473.1M), and key performance metrics like Average Interest Rate (12.05%) and Average DTI (13.33%).
+
 *Advanced DAX measures power Month-to-Date (MTD), Previous Month, and Month-over-Month (MoM) analytics, allowing dynamic filtering by loan purpose, grade, and borrower profile.
+
 *It helps identify trends in good vs. bad loans and reveals strategic insights like regional performance and risk patterns.
 
 📈 Excel Dashboard:
 *I also created a feature-rich Excel version of the dashboard using pivot tables, slicers, and custom visuals.
+
 *This model mirrors the Power BI interface while maintaining the flexibility of Excel. It highlights loan status (Fully Paid, Charged Off, Current), borrower demographics, loan purpose, and term-wise breakdowns.
 
 
